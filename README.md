@@ -1,1 +1,1 @@
-# topiary2d
+2d animation program
