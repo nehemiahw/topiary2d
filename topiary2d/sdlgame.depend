@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567350804 source:/home/nehemiahw/Desktop/pong_game/sdlgame/main.c
+	"SDL2/SDL.h"
+	<stdio.h>
+	<stdbool.h>
+
+1567350576 source:/home/nehemiahw/Desktop/pong_game/sdlgame/sdl2_example.c
+	"SDL2/SDL.h"
+	<stdio.h>
+
+1567481083 source:/home/nehemiahw/Desktop/sdlgame/main.c
+	"SDL2/SDL.h"
+	<stdio.h>
+	<stdbool.h>
+
