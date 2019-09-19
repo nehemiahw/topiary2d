@@ -1,1 +1,1 @@
-2d animation program
+2d animation program, using GTK.
