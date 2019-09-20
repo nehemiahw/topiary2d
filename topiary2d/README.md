@@ -1,1 +1,1 @@
-A 2d animation program using GTK.
+A 2d game engine program using SDL2.
